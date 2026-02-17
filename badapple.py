@@ -8,7 +8,7 @@ import pygame
 
 FRAMES_DIR = "frames_32x32"
 FPS = 40
-AUDIO_FILE = "/Users/lbl/Downloads/Cozmo/cozmo_sdk_examples_1.4.12/badapple.mp3"
+AUDIO_FILE = "/badapple.mp3"
 
 def prep(robot):
     robot.drive_off_charger_on_connect = False
