@@ -12,9 +12,10 @@
 ### 1.	Clone the Repository:
 
 Open a terminal and run:
- git clone https://github.com/LBL215exe/BadAppleButOnCozmo.git
+git clone https://github.com/LBL215exe/BadAppleButOnCozmo.git
+or Download the Release
 cd BadAppleButOnCozmo
-  	
+  
 ### 2.	Install Required Packages:
 
  pip install -r requirements.txt
