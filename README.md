@@ -4,7 +4,7 @@
 "Bad Apple" is an engaging project that animates the Cozmo robot to perform a rendition of the popular song and animation. This README outlines how to set up and run the project using the Cozmo SDK.
 
 ## Requirements
-•	Python 3.6 or higher: Download from python.org. 	
+•	Python 3.6 or higher: Download from [https://python.org](https://www.python.org/downloads/). 	
 •	Cozmo Robot: A physical Cozmo robot is necessary to execute the program.
 
 ## Installation
